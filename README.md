@@ -2,4 +2,4 @@
 ## hallo-world
 ###### hallo-world
 
-*神ってる＊
+*神ってる*
