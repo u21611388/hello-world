@@ -19,6 +19,6 @@ _windless **night**_
  1. reminds me that
  1. I still live
 
-[*] I will burn my dread
-[*] I once run away from the god fear
+[x] I will burn my dread
+[x] I once run away from the god fear
 [] and he chained me to dispare 
